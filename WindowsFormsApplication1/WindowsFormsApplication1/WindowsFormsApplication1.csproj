@@ -23,14 +23,16 @@
     <UpdatePeriodically>false</UpdatePeriodically>
     <UpdateRequired>false</UpdateRequired>
     <MapFileExtensions>true</MapFileExtensions>
-    <InstallUrl>https://github.com/JagadeshManivannan/Unilever/tree/master/Deployment/</InstallUrl>
+    <InstallUrl>https://github.com/JagadeshManivannan/Unilever/tree/master/Deployment/setup.exe/</InstallUrl>
     <UpdateUrl>https://github.com/JagadeshManivannan/Unilever/tree/master/Deployment/</UpdateUrl>
     <SupportUrl>https://github.com/JagadeshManivannan/Unilever/tree/master/Deployment</SupportUrl>
     <ProductName>Test</ProductName>
     <PublisherName>Jaga</PublisherName>
     <SuiteName>Test</SuiteName>
     <MinimumRequiredVersion>1.0.0.0</MinimumRequiredVersion>
-    <ApplicationRevision>6</ApplicationRevision>
+    <CreateWebPageOnPublish>true</CreateWebPageOnPublish>
+    <WebPage>publish.htm</WebPage>
+    <ApplicationRevision>7</ApplicationRevision>
     <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
     <UseApplicationTrust>false</UseApplicationTrust>
     <CreateDesktopShortcut>true</CreateDesktopShortcut>
